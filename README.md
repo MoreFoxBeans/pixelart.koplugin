@@ -4,7 +4,7 @@ A WIP pixel art editor plugin for KOReader! I've only tested this on my personal
 
 ## How to install
 
-Download the source code of the [latest release](https://github.com/MoreFoxBeans/pixelart.koplugin/releases), then extract that to get a folder named "pixelart.koplugin". Move that folder into the KOReader plugins directory, (it varies per device but for Kobo readers it's "~/.adds/koreader/plugins"). Restart KOReader and you're done!
+Download the source code of the [latest release](https://github.com/MoreFoxBeans/pixelart.koplugin/releases), then extract that. Rename the folder "pixelart.koplugin-vX.X.X" to just "pixelart.koplugin". Now move that folder into the KOReader plugins directory, (it varies per device but for Kobo readers it's "~/.adds/koreader/plugins"). Restart KOReader and you're done!
 
 ## Where do I find it?
 
