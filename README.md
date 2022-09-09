@@ -44,6 +44,6 @@ It should be located in the "More tools" section of the plugins section of the K
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/MoreFoxBeans/pixelart.koplugin/main/screenshots/space.png]()
+![](https://github.com/MoreFoxBeans/pixelart.koplugin/blob/main/screenshots/space.png?raw=true)
 
-![https://raw.githubusercontent.com/MoreFoxBeans/pixelart.koplugin/main/screenshots/gridsize.png]()
+![](https://github.com/MoreFoxBeans/pixelart.koplugin/blob/main/screenshots/gridsize.png?raw=true)
