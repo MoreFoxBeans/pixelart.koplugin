@@ -1,5 +1,10 @@
 # pixelart.koplugin
 
+![GitHub repo size](https://img.shields.io/github/repo-size/morefoxbeans/pixelart.koplugin?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/morefoxbeans/pixelart.koplugin?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/morefoxbeans/pixelart.koplugin?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/morefoxbeans/pixelart.koplugin/total?style=for-the-badge)
+
 A WIP pixel art editor plugin for KOReader! I've only tested this on my personal reader so it please create an issue if something doesn't work.
 
 ## How to install
